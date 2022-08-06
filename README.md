@@ -16,7 +16,7 @@ import SQL db_film pada phpmyadmin
 Akses pada web browser dengan url ```http://localhost/{nama-folder}```
 
 ## Step 5
-lOGIN bisa menggunakan salah satu user berikut:
+LOGIN bisa menggunakan salah satu user berikut:
 - user1@gmail.com / Admin12345!
 - user2@gmail.com / Admin12345!
 
